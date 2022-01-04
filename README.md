@@ -1,7 +1,5 @@
 ## 👨‍💻BackEnd Developer
 
-### 항상 보다 나은 방법은 없는지 고민하고 노력하는 개발자 이준희입니다.
-
 <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantom08266&theme=tokyonight&show_icons=true)
