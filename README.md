@@ -9,8 +9,12 @@
   
 <a href="https://morethantoday.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=Bitdefender"/></a>
 <a href="mailto:phantom08266@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
 </div>
 
+## Portfolio
+>[portfolio](https://github.com/phantom08266/portfolio) 링크
 
 ## Skills 
 
